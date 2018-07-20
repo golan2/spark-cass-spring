@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spark-cass-spring.iml" filepath="$PROJECT_DIR$/spark-cass-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-shared/spark-shared.iml" filepath="$PROJECT_DIR$/spark-shared/spark-shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-spring/spark-spring.iml" filepath="$PROJECT_DIR$/spark-spring/spark-spring.iml" />
+    </modules>
+  </component>
+</project>

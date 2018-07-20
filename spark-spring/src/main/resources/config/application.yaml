@@ -1,0 +1,9 @@
+spark:
+  master: "spark://192.168.1.2:7077"
+
+server:
+  port: 8085
+cassandra:
+  keyspace: "stock_data"
+  connection:
+    host: "127.0.0.1"

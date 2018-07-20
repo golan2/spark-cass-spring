@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spark-shared" />
+        <module name="spark-spring" />
+        <module name="sparkshared" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spark-cass-spring" target="1.8" />
+      <module name="spark-shared" target="1.8" />
+      <module name="spark-spring" target="1.8" />
+      <module name="sparkshared" target="1.5" />
+      <module name="sparksrping" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
